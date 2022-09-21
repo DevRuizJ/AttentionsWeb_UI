@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f5f1ef;
+  height: 100%;
+}
+
+body ::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: #616060;
+
+  // display: none;  /* Ocultar scroll */
+  &:active {
+    background: #4F4F4F;
+  }
+}
+
+body ::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+body ::-webkit-scrollbar-track {
+  background: #333333;
+  border-radius: 1px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}

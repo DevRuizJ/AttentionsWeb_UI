@@ -1,0 +1,1 @@
+export const URLAPI = 'URL_API'

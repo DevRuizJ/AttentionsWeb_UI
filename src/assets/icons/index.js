@@ -1,0 +1,25 @@
+// Redes Sociales
+export { default as Linkedin } from './Linkedin';
+export { default as YouTube } from './YouTube';
+export { default as Twiter } from './Twiter';
+export { default as Facebook } from './Facebook';
+export { default as Google } from './Google';
+export { default as Reporte } from './Reporte';
+export { default as Success } from './Success';
+export { default as Error } from './Error';
+export { default as Pendiente } from './Pendiente';
+export { default as Search } from './Search';
+export { default as SendMail } from './SendMail';
+export { default as NoEncontrado } from './NoEncontrado';
+export { default as BotSuiza } from './BotSuiza';
+export { default as Science } from './Science';
+export { default as BioMolecular } from './BioMolecular';
+export { default as BioQuimica } from './BioQuimica';
+export { default as Coagulacion } from './Coagulacion';
+export { default as Genetica } from './Genetica';
+export { default as Hematologia } from './Hematologia';
+export { default as Inmunoquimica } from './Inmunoquimica';
+export { default as MicroBio } from './MicroBio';
+export { default as Patologica } from './Patologica';
+export { default as Urianalisis } from './Urianalisis';
+export { default as BarCode } from './BarCode';
